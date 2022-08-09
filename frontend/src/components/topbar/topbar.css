@@ -6,6 +6,7 @@
   align-items: center;
   position: sticky;
   top: 0;
+  z-index: 2;
 }
 
 .logo {
@@ -90,5 +91,4 @@
   border-radius: 50%;
   object-fit: cover;
   cursor: pointer;
-  
 }
